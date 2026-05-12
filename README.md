@@ -1,4 +1,4 @@
-## Olá, eu sou o Eduardo!
+## Hi, I'm Eduardo!
 <!-- <div>
   <a href="https://github.com/duh188">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duh188&show_icons=true&theme=dracula&include_all_commits=true"/>
