@@ -1,7 +1,7 @@
 ## Olá, eu sou o Eduardo!
 <div>
   <a href="https://github.com/duh188">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duh188&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duh188&show_icons=true&theme=dracula&include_all_commits=true"/>
 </div>
 <div style="display: inline-block"><br>
 <img align="center" alt="js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
